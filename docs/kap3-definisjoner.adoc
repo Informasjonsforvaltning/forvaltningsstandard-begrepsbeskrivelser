@@ -21,7 +21,7 @@ Språk/målform er angitt i parentes. F.eks. betyr “term (nb)” at teksten �
 |Frarådet term |begrep (nb); omgrep (nn); concept (en); konsept (nb); konsept (nn)
 |Definisjon |betegnelse som representerer et allmennbegrep ved språklige midler (nb)
 |Kilde |Sitat fra http://www.standard.no/toppvalg/termbasen/Termpost/?TermPostId=35329[NS-ISO 1087:2019 Terminologiarbeid og terminologivitenskap — Ordliste]
-|Merknad |En term er navnelappen til et begrep, altså det ordet eller den gruppen av ord vi bruker for å uttrykke et begrep. |Definisjonen viser til allmennbegrep, f.eks. organisasjon, severdighet og produkt, for å ekskludere egennavn og individualbegreper, f.eks. Røde kors, Eiffeltårnet og Solidox. (nb)
+|Merknad |En term er navnelappen til et begrep, altså det ordet eller den gruppen av ord vi bruker for å uttrykke et begrep. Definisjonen viser til allmennbegrep, f.eks. organisasjon, severdighet og produkt, for å ekskludere egennavn og individualbegreper, f.eks. Røde kors, Eiffeltårnet og Solidox. (nb)
 |===
 
 [[AnbefaltTerm, anbefalt term]]
