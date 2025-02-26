@@ -24,7 +24,7 @@ image::images/Digdir.png[width=50%, pdfwidth=30vw]
 *Publisert*: 2019-03-15 (v.2.0) +
 *Oppdatert*: 2020-07-01 (v.2.0.2), 2022-12-09 (Fases ut) +
 
-include::shared/download.adoc[]
+include::download.adoc[]
 
 // :leveloffset: +1
 
@@ -43,4 +43,4 @@ include::vedlegg-a.adoc[]
 include::vedlegg-b.adoc[]
 
 
-include::shared/stats.adoc[]
+//include::shared/stats.adoc[]
